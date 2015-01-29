@@ -1,0 +1,6 @@
+c:\users\kim\documents\visual studio 2013\Projects\Uppgift2\Uppgift2\bin\Uppgift2.dll.config
+c:\users\kim\documents\visual studio 2013\Projects\Uppgift2\Uppgift2\bin\Uppgift2.dll
+c:\users\kim\documents\visual studio 2013\Projects\Uppgift2\Uppgift2\bin\Uppgift2.pdb
+c:\users\kim\documents\visual studio 2013\Projects\Uppgift2\Uppgift2\obj\Debug\Uppgift2.dll
+c:\users\kim\documents\visual studio 2013\Projects\Uppgift2\Uppgift2\obj\Debug\Uppgift2.pdb
+C:\Users\kim\Documents\Visual Studio 2013\Projects\Uppgift2\Uppgift2\obj\Debug\Uppgift2.csprojResolveAssemblyReference.cache

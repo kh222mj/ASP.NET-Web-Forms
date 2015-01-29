@@ -1,0 +1,20 @@
+﻿body {
+    margin-left: 50px;
+}
+#kvittoText {
+    border: 1px solid black;
+    margin-top: 10px;
+    width: 250px;
+    text-align: center;
+    background-color: gray;
+
+}
+#kvittoResults {
+    border-top: 1px dashed black;
+    border-bottom: 1px dashed black;
+    text-align: left;
+    color: white;
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
